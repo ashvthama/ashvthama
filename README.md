@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Gen AI
 - 👯 I’m looking to collaborate
 - 💬 Ask me about anything
-- 📫 How to reach me: contact@yashworks.xyz
+- 📫 How to reach me: kedarbargule@gmail.com
 - ⚡ Fun fact: I have FUN
 
 <h2>Languages</h2>
