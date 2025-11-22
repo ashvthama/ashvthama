@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashvthama.ashvthama)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SpiritOfKedar.SpiritOfKedar)
 
 
 - 🔭 I’m currently working on my side projects
